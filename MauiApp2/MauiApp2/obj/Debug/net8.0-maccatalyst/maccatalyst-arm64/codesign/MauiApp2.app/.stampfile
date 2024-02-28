@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/kidae/Documents/soil-psorms-maui/MauiApp2/MauiApp2/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/kidae/Documents/soil-psorms-maui/MauiApp2/MauiApp2/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiApp2.app
